@@ -1,3 +1,5 @@
+import 'csv_service.dart';
+
 class ErroValidacao {
   final int linha;
   final String campo;
